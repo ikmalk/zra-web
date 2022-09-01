@@ -1,0 +1,13 @@
+#dead8d  orange light
+#efc8af  orange hover
+fef7f2   orange bg light
+f1e8e2   orange wrap
+
+#d98560  orange copper rgb(217, 133, 96)
+rgb(186, 94, 96)  hero
+#4f372d dark footer orange
+
+
+#686230  green dark
+#aba255  decor
+#565125  darker rgb(86, 81, 37)
